@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\exceptions\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\exceptions\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\asus\\source\\repos\\employeeapi\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF26F87A-9FEA-4F80-86B3-5E85421E8A4D}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:34:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeAPI\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:22:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "EmployeeAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:16:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeAPI\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:21:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:08:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Exceptions\\AppExceptionHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Exceptions\\AppExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Exceptions\\AppExceptionHandler.cs",
+              "RelativeToolTip": "EmployeeAPI\\Exceptions\\AppExceptionHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:43:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "EmployeeAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:16:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:39:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeAPI\\Data\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:14:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T06:13:14.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

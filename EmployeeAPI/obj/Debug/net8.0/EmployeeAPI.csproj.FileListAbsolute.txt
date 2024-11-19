@@ -166,3 +166,4 @@ C:\Users\ASUS\source\repos\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\refint\Emplo
 C:\Users\ASUS\source\repos\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.pdb
 C:\Users\ASUS\source\repos\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\ref\EmployeeAPI.dll
+C:\Users\ASUS\source\repos\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.sourcelink.json
